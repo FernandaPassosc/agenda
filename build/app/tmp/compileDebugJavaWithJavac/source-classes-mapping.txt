@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+pucminas/br/projeto_agenda/agenda/BuildConfig.java
+ pucminas.br.projeto_agenda.agenda.BuildConfig
